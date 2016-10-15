@@ -87,4 +87,4 @@ The motivation of this library is to allow syntax like this when working with Re
 		}
 	}
 
-This is implemented in the `react-decorators` library.
+This is implemented in another library.
