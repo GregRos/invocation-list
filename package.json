@@ -1,6 +1,6 @@
 {
   "name": "invocation-list",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A module that supports binding multiple functions to a name using ES7/TypeScript decorators.",
   "main": "dist/index.js",
   "repository" : "https://github.com/GregRos/invocation-list",

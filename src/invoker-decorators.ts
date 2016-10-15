@@ -5,7 +5,7 @@ import {InvocationLists} from './invoker/invoker';
 import _ = require("lodash");
 
 export function invokedBy(memberName : string | symbol, maxArity : number = -1) {
-	return function (target : any, property : string | symbol) : void {
+	return function (target : any, property : string) : void {
 		let f = target[property] as Function;
 		InvocationLists.addInvocation(target, memberName, target[property]);
 	};

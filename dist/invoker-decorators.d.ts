@@ -1,1 +1,1 @@
-export declare function invokedBy(memberName: string | symbol, maxArity?: number): (target: any, property: string | symbol) => void;
+export declare function invokedBy(memberName: string | symbol, maxArity?: number): (target: any, property: string) => void;
