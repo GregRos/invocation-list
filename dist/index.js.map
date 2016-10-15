@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":"AAAA;;GAEG;;;;;AAEH,iBAAc,sBAAsB,CAAC,EAAA","file":"index.js","sourcesContent":["/**\r\n * Created by Greg on 15/10/2016.\r\n */\r\n\r\nexport * from './invoker-decorators';"],"sourceRoot":"/src"}

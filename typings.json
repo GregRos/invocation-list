@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20161015015725"
+  },
+  "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160914114559",
+    "jasmine": "registry:dt/jasmine#2.5.0+20161003201800"
+  }
+}
